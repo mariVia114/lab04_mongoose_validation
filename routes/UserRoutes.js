@@ -1,5 +1,5 @@
 const express = require("express");
-const userModel = require("../models/user.js");
+const userModel = require("../model/user.js");
 const app = express();
 
 //http://localhost:8081/users
